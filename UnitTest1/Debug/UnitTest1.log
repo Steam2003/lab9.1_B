@@ -1,0 +1,3 @@
+﻿  UnitTest1.cpp
+D:\Patiuk\AP\lab_2\labs9\lab9.1_B\lab9.1_B.cpp(6,1349): warning C4101: 'kurs': unreferenced local variable
+  UnitTest1.vcxproj -> D:\Patiuk\AP\lab_2\labs9\lab9.1_B\Debug\UnitTest1.dll
